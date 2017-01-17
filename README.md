@@ -14,8 +14,8 @@
 docker run arehmandev/etcdcli53 TLDNAME
 
 e.g:
-```
 
+```
 docker run arehmandev/etcdcli53 abs.com
 ```
 
