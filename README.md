@@ -26,3 +26,6 @@ Note:
 Example iampolicy.json for EC2 instances and terraform scripts for Route53 zone setup.
 
 https://github.com/arehmandev/Prototype-X (under development)
+
+## References
+https://github.com/barnybug/cli53
